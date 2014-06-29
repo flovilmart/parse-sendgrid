@@ -1,6 +1,6 @@
 {
   "name": "sendgrid",
-  "version": "0.0.0",
+  "version": "0.0.1-parse",
   "description": "parse-sendgrid ==============",
   "main": "index.js",
   "scripts": {
