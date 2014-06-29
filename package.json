@@ -1,0 +1,23 @@
+{
+  "name": "sendgrid",
+  "version": "0.0.0",
+  "description": "parse-sendgrid ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flovilmart/parse-sendgrid"
+  },
+  "author": "Florent Vilmart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flovilmart/parse-sendgrid/issues"
+  },
+  "homepage": "https://github.com/flovilmart/parse-sendgrid",
+  "dependencies": {
+    "parse-cloud": "0.0.3",
+    "sendgrid": "~1.1.0"
+  }
+}
